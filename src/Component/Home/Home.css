@@ -1,13 +1,13 @@
 .Home-image {
 
     background-image: url("../../Assets/Gradient overlay.png"),url("../../Assets/tiger2.jpg");
-    opacity: 100%;
+    /* opacity: 100%; */
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
     background-size: cover;
     background-position: center;
     height: 100vh;
-    
+
     /* display: flex;
     justify-content: center;
     align-items: center; */

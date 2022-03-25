@@ -1,6 +1,6 @@
 .land-image {
     background-image: url("../../Assets/Group 22.png");
-    opacity: 100%;
+    /* opacity: 100%; */
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
     background-size: cover;
