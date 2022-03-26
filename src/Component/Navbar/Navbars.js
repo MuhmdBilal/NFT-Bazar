@@ -31,17 +31,17 @@ function Navbars() {
 
             <Navbar collapseOnSelect expand="lg" variant="dark" style={{ backgroundColor: "#04111D" }}>
                 <Container>
-                    <Navbar.Brand href="#home" style={{ fontSize: "20px", fontWeight: "bold" }}>NFT BAZAR</Navbar.Brand>
+                  <Link to="/" style={{ textDecoration: "none" }}><Navbar.Brand href="#home" style={{ fontSize: "20px", fontWeight: "bold" }}>NFT BAZAR</Navbar.Brand></Link>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
                         </Nav>
                         <Nav>
-                            <Link to="/" style={{ textDecoration: "none" }}><Nav.Link href="#deets" className="tagss me-md-2">Explore</Nav.Link></Link>
-                            <Link to="/mint" style={{ textDecoration: "none" }}><Nav.Link href="#memes" className="tagss me-md-2">Mint NFTs</Nav.Link></Link>
-                            <Link to="/mycollection" style={{ textDecoration: "none" }}><Nav.Link href="#MyNFTs" className="tagss me-md-2">My NFTs</Nav.Link></Link>
-                            <Link to="/land" style={{ textDecoration: "none" }}><Nav.Link href="#Land" className="tagss me-md-2">Land</Nav.Link></Link>
-                            <Link to="/dashboard" style={{ textDecoration: "none" }}><Nav.Link href="#Deshboard" className="tagss me-md-2">Dashboard</Nav.Link></Link>
+                            <Link to="/" style={{ textDecoration: "none" }}><Nav.Link href="/" className="tagss me-md-2">Explore</Nav.Link></Link>
+                            <Link to="/mint" style={{ textDecoration: "none" }}><Nav.Link href="/mint" className="tagss me-md-2">Mint NFTs</Nav.Link></Link>
+                            <Link to="/mycollection" style={{ textDecoration: "none" }}><Nav.Link href="/mycollection" className="tagss me-md-2">My NFTs</Nav.Link></Link>
+                            <Link to="/land" style={{ textDecoration: "none" }}><Nav.Link href="/land" className="tagss me-md-2">Land</Nav.Link></Link>
+                            <Link to="/dashboard" style={{ textDecoration: "none" }}><Nav.Link href="/dashboard" className="tagss me-md-2">Dashboard</Nav.Link></Link>
                         </Nav>
                         <Navbar.Text>
                             <Button

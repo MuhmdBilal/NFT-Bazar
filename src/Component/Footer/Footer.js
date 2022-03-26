@@ -13,12 +13,8 @@ function Footer() {
             <div className='container'>
                 <div className='row d-flex justify-content-center justify-content-around align-items-center mt-4 pt-4 pb-4'>
                     <div className='col-md-4 col-10'>
-                        <h5 className='road-map-h'>Metaverse Marketplace</h5>
-                        <p className='roadmap-p'>Lorem Ipsum is simply dummy text of
-                            the printing and typesetting industry.
-                            Lorem Ipsum has been
-                            the industry's standarddummy
-                            text ever since the 1500s</p>
+                        <h5 className='road-map-h'>A gateway to virtual real estate in metaversee</h5>
+                        <p className='roadmap-p'>Development of virtual land in metaverse. Buying and selling of virtual real estate across the Metaverses.</p>
                     </div>
                     <div className='col-2 footerdispaly'>
                         <img src={Rectangle21} className='footerimage' />

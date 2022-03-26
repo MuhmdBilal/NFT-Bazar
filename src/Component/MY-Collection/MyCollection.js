@@ -12,7 +12,7 @@ function MyCollection() {
     const [fileUrl, updateFileUrl] = useState(``)
     let [totalMints, setTotalMints]=useState();
     let [uploadedHash, setUploadedhash]=useState();
-    const showNftImages=async()=>{  
+    const showNftImages=async()=>{
         let acc =loadWeb3();
         if (acc == "No Wallet") {
             console.log("No Wallet Connected");
@@ -35,7 +35,7 @@ function MyCollection() {
                 imageUrl.push(url)
                 updateFileUrl(url)
                 dummyArray.push(hash);
-                setImagesNft(imageUrl); 
+                setImagesNft(imageUrl);
             }
             setUploadedhash(dummyArray);
             console.log("Array Length = ",imageUrl);
@@ -45,7 +45,7 @@ function MyCollection() {
         // setInterval(() => {
             showNftImages();
         // }, 2000);
-    }, [myNftImages]);
+    }, []);
 
     return (
         <div className='container'>
@@ -53,11 +53,11 @@ function MyCollection() {
                 <div className='col-md-12'>
                     <h2 className='mint-h2 text-start'>My NFTs Collection</h2>
                     <div className='row d-flex justify-content-center justify-content-between'>
-                        
+
                     {
                             myNftImages.map((items,index) => {
                                 return (
-                                    <div className='col-lg-4 mt-3'>
+                                    <div className='col-lg-4 mt-3 mb-3'>
                                         <Card style={{ backgroundColor: "#303339", borderRadius: "5px" }}>
                                             <Card.Img variant="top" src={myNftImages[index]} height="400px" />
                                             <Card.Body>
@@ -92,7 +92,7 @@ function MyCollection() {
                                 )
                             })
                         }
-                        
+
                     </div>
                 </div>
             </div>

@@ -20,10 +20,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -53,10 +51,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -86,10 +82,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -119,10 +113,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -152,10 +144,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -185,10 +175,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -218,10 +206,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -251,10 +237,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
@@ -284,10 +268,8 @@ function Dashboard() {
                                         <img src={tiger3} width="50px" height="50px" style={{ borderRadius: "80%" }} />
                                         </div>
                                         <div className='col-9 text-start offset-1'>
-                                            <h6 style={{ color: "#00bdfe" }}>Account Name</h6>
-                                            <p style={{ color: "white", fontSize: "12px" }}>Lorem Ipsum is simply dummy
-                                                text of the printing and typesetting
-                                                industry.</p>
+                                            <h6 style={{ color: "#00bdfe" }}>NFT BAZAR</h6>
+                                            <p style={{ color: "white", fontSize: "12px" }}>The largest digital marketplace for crypto collectibles and (NFTs) non-fungible tokens. Discover buy and sell exclusive digital items.</p>
                                         </div>
                                     </div>
                                     <div className='row d-flex justify-content-center justify-content-between align-items-center'>
