@@ -3,6 +3,8 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbars from './Component/Navbar/Navbars';
 import Mint from './Component/Mint/Mint';
+import 'slick-carousel/slick/slick.css'
+import 'slick-carousel/slick/slick-theme.css'
 import {
   BrowserRouter,
   Routes,

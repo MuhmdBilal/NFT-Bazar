@@ -79,8 +79,8 @@ input[type= "checkbox"] {
     display: none;
 }
 .landb0xs {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     background-color: #A1FE00;
     color: black;
     font-weight: bold;
@@ -92,8 +92,8 @@ input[type= "checkbox"] {
 }
 
 .landb0xs1 {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     background-color: #DCDCDC;
     color: black;
     font-weight: bold;
@@ -104,8 +104,8 @@ input[type= "checkbox"] {
 }
 
 .landb0xs2 {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     background-color: #00A7FE;
     color: black;
     font-weight: bold;
