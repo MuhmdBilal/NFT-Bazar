@@ -34,7 +34,7 @@ function Home() {
                     </div>
                     <div className='col-lg-4 pb-5'>
                         <Card style={{ backgroundColor: "#303339", borderRadius: "5px" }}>
-                            <div className=''>
+                            <div className=' d-flex justify-content-center'>
                                 <div className='col-lg-12 col-10 mint-box mt-3 mb-3 p-4 d-flex align-items-center justify-content-center '>
                                     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
                                         <div class="carousel-indicators">
