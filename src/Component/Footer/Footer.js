@@ -29,8 +29,8 @@ function Footer() {
                         </div>
                         <h5 className='road-map-h mt-4 '>Help & Support</h5>
                         <div className=''>
-                        <span  style={{color: "white"}}><img src={email} width="17px"/> abc@gmail.com</span><br/>
-                        <span style={{color: "white"}}><img src={call} width="14px"/>&nbsp;012 345 678</span>
+                        <span  style={{color: "white"}}><img src={email} width="17px"/> contact@xerotech.io</span><br/>
+                        <span style={{color: "white"}}><img src={call} width="14px"/>&nbsp;+971-521-450933</span>
                         </div>
                     </div>
                 </div>
